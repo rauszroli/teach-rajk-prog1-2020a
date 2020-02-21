@@ -68,3 +68,11 @@ Mindegy, hogy melyik videóhoz szólnak a kérdések,
 azonban most **szerda éjfél** a határidő erre.
 A **pénteki kurzusig** pedig válasszatok ki a többiek kérdései közül egyet, 
 és válaszoljátok meg a dolgok második alkalomra levelezésben (first come, first served alapon).
+
+## Jelölés beli segítség a specifikációkhoz:
+    - $\\mathbb{B}$ a logikai értékek halmaza.
+    - $l \\in \\mathbb{B}$ azt jelenti hogy $l$ egy logikai változó
+    - $P: \\mathbb{R} \\to \\mathbb{B}$ pedig azt, hogy $P$ egy valós számból logikai értékbe képző függvény (más néven predikátum)
+    - $\\mathbb{N}^n$ az $n$ elemű tömböket jelöli amikben $\\mathbb{N}$ típusú elemek vannak
+
+   

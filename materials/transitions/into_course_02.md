@@ -71,8 +71,5 @@ A **pénteki kurzusig** pedig válasszatok ki a többiek kérdései közül egye
 
 ## Jelölés beli segítség a specifikációkhoz:
     - $\\mathbb{B}$ a logikai értékek halmaza.
-    - $l \\in \\mathbb{B}$ azt jelenti hogy $l$ egy logikai változó
-    - $P: \\mathbb{R} \\to \\mathbb{B}$ pedig azt, hogy $P$ egy valós számból logikai értékbe képző függvény (más néven predikátum)
-    - $\\mathbb{N}^n$ az $n$ elemű tömböket jelöli amikben $\\mathbb{N}$ típusú elemek vannak
 
    

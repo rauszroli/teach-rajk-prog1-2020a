@@ -70,7 +70,7 @@ A **pénteki kurzusig** pedig válasszatok ki a többiek kérdései közül egye
 és válaszoljátok meg a dolgok második alkalomra levelezésben (first come, first served alapon).
 
 ## Jelölés beli segítség a specifikációkhoz:
-    "- $\\mathbb{B}$ a logikai értékek halmaza.\n",
+    - $\\mathbb{B}$ a logikai értékek halmaza.
     
 
    

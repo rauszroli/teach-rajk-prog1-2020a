@@ -68,9 +68,6 @@ Mindegy, hogy melyik videóhoz szólnak a kérdések,
 azonban most **szerda éjfél** a határidő erre.
 A **pénteki kurzusig** pedig válasszatok ki a többiek kérdései közül egyet, 
 és válaszoljátok meg a dolgok második alkalomra levelezésben (first come, first served alapon).
-
-## Jelölés beli segítség a specifikációkhoz:
-    - $\\mathbb{B}$ a logikai értékek halmaza.
     
 
    

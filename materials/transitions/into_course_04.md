@@ -1,4 +1,4 @@
-## [Typegame]()
+## [Typegame](http://rajk.uni-corvinus.hu:5123/)
 A linkre kattintva eljuttok a typegame felületére, ahol adatok típusait kell jól eltalálnotok. A kurzusig adjatok le egy hibátlan megoldást a nevetekkel. Annyiszor próbálkozhattok ahányszor akartok. Ha valamiért valamikor nem működik a link akkor szóljatok és újraélesztjük. 
 
 ## Videók

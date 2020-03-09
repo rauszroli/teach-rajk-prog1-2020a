@@ -1,5 +1,5 @@
 ## [Typegame](http://rajk.uni-corvinus.hu:5123/)
-A linkre kattintva eljuttok a typegame felületére, ahol válasszátok ki a Firstgame Quizt, ahol adatok típusait kell jól eltalálnotok. A kurzusig adjatok le egy hibátlan megoldást a nevetekkel. Annyiszor próbálkozhattok ahányszor csak akartok. Ha valamiért valamikor nem működik a link akkor szóljatok és újraélesztjük. 
+A linkre kattintva eljuttok a typegame felületére, majd válasszátok ki a Firstgame Quizt, ahol adatok típusait kell jól eltalálnotok. A kurzusig adjatok le egy hibátlan megoldást a nevetekkel. Annyiszor próbálkozhattok ahányszor csak akartok. Ha valamiért valamikor nem működik a link akkor szóljatok és újraélesztjük. 
 
 ## Videók
 A következő négy videó közül kettőhöz küldjetek fel kérdést az email alá a kurzusig.

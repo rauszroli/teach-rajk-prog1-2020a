@@ -13,7 +13,7 @@ A jobb megértésért [itt olvashatjátok](https://git-scm.com/book/en/v2/Gettin
 A következő kurzusig regisztráljatok [ezen a linken](https://github.com/), és fork-oljátok a [kurzus repository-ját](https://github.com/kbenya/teach-rajk-prog1-2020a). 
 Ezt a jobb felső sarokban található gombra kattintva tudjátok megtenni:
 
-kép
+(https://github.com/kbenya/teach-rajk-prog1-2020a/blob/master/materials/others/github_fork.png)
 
 3. Azoknak, akiket részletesebben érdekel a téma, 
 itt van egy félórás videósorozat a git és a GitHub használatáról: 

@@ -59,7 +59,7 @@ Ezek a tutorialok viszont python2-ben lettem megírva ez ha jól emlékszem anny
 Ha készen vagytok a feladatokról készítsetek egy képet arról, hogy megoldottátok őket és ezt is küldjétek fel githubra a kurzusig.
 Érdemes ezzel kezdeni és ezt követően megoldani az AoC feladatot.
 
-## Github(https://github.com/)
+## [Github](https://github.com/)
 
 [Itt](https://github.com/kbenya/teach-rajk-prog1-2020a/blob/master/materials/tutorials/git_intro.md) találjátok Hanga összefoglalóját.
 
@@ -67,7 +67,7 @@ Ha készen vagytok a feladatokról készítsetek egy képet arról, hogy megoldo
 ## Python telepítés
 Ehhez most vasárnap még összerakom egy útmutatót.
 
-##[Nyílthelyi](https://docs.google.com/forms/d/e/1FAIpQLSeOWTZbJUrvUzYnHqi4HJFhD3q0m8t3dblG9XgqT4Xbrkp6Aw/viewform?usp=sf_link)
+## [Nyílthelyi](https://docs.google.com/forms/d/e/1FAIpQLSeOWTZbJUrvUzYnHqi4HJFhD3q0m8t3dblG9XgqT4Xbrkp6Aw/viewform?usp=sf_link)
 Ezzel a nyílthelyivel az elmélet átismétlésére szeretnénk ösztönözni titeket. Ennek a határideje 04.07. kedd éjfélig.
 
 ## AoC promóció

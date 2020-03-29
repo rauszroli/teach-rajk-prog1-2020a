@@ -5,7 +5,7 @@ A következő kurzusra sok dolgotok van, ezért ezeket előbb összeszedem egy l
 - Python telepítése a saját gépetekre a következő kurzusig.
 - Nyílthelyi Zh kitöltése 04.07. kedd éjfélig.
 
-Bizonyos dolgokhoz mint például a github vagy jupyter elkezdtünk útmutatókat összerakni.
+Bizonyos dolgokhoz mint például a github vagy a python telepítése elkezdtünk útmutatókat összerakni.
 Ezek elérését a megfelelő helyeken is beágyazom, de álltalánosan a kurzus [materials/tutorials](https://github.com/kbenya/teach-rajk-prog1-2020a/tree/master/materials/tutorials) 
 mappájában találjátok. 
 Mivel mostmár ti is elkezdtek ismerkedni a githubbal ezért arra bíztatnálak titeket, 
@@ -59,12 +59,12 @@ Ezek a tutorialok viszont python2-ben lettem megírva ez ha jól emlékszem anny
 Ha készen vagytok a feladatokról készítsetek egy képet arról, hogy megoldottátok őket és ezt is küldjétek fel githubra a kurzusig.
 Érdemes ezzel kezdeni és ezt követően megoldani az AoC feladatot.
 
-##Github(https://github.com/)
+## Github(https://github.com/)
 
 [Itt](https://github.com/kbenya/teach-rajk-prog1-2020a/blob/master/materials/tutorials/git_intro.md) találjátok Hanga összefoglalóját.
 
 
-##Python telepítés
+## Python telepítés
 Ehhez most vasárnap még összerakom egy útmutatót.
 
 ##[Nyílthelyi](https://docs.google.com/forms/d/e/1FAIpQLSeOWTZbJUrvUzYnHqi4HJFhD3q0m8t3dblG9XgqT4Xbrkp6Aw/viewform?usp=sf_link)

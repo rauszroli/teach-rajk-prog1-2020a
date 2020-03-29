@@ -17,4 +17,5 @@ Ezt a jobb felső sarokban található gombra kattintva tudjátok megtenni:
 
 3. Azoknak, akiket részletesebben érdekel a téma, 
 itt van egy félórás videósorozat a git és a GitHub használatáról: 
-[Learn git in 15 minutes](https://www.youtube.com/watch?v=USjZcfj8yxE), [Learn GitHub in 20 minutes](https://www.youtube.com/watch?v=nhNq2kIvi9s)
+-[Learn git in 15 minutes](https://www.youtube.com/watch?v=USjZcfj8yxE)
+- [Learn GitHub in 20 minutes](https://www.youtube.com/watch?v=nhNq2kIvi9s)

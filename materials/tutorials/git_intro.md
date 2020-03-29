@@ -4,7 +4,7 @@
 A letöltés utáni konfiguráció operációs rendszertől, illetve fehasználói preferenciáktól függően eltérhet. 
 Ha valakinek ezzel gondja akad, keressetek minket vele nyugodtan!
 
-... A git szükséges ahhoz, hogy a saját gépetek és a GitHub repo-tok között kommunikáni tudjatok,
+⋅⋅⋅A git szükséges ahhoz, hogy a saját gépetek és a GitHub repo-tok között kommunikáni tudjatok,
 ahogy a kurzuson mutattuk, de egyébként teljesen offline is használható verzió-kontrollra 
 (visszakövethető vele a lokális fájlok módosítása.) 
 A jobb megértésért [itt olvashatjátok](https://git-scm.com/book/en/v2/Getting-Started-What-is-Git%3F) a dokumentáció bemutatkozó részét.

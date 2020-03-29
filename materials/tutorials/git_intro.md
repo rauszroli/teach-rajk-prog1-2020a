@@ -10,7 +10,7 @@ Ha valakinek ezzel gondja akad, keressetek minket vele nyugodtan!
    A jobb megértésért [itt olvashatjátok](https://git-scm.com/book/en/v2/Getting-Started-What-is-Git%3F) a dokumentáció bemutatkozó részét.
 
 2. A GitHub a gitre épülő felhő-szolgáltatás. 
-A következő kurzusig regisztráljatok [ezen a linken](https://github.com/), és fork-oljátok a [kurzus repository-ját](https://github.com/kbenya/teach-rajk-prog1-2020a). 
+A megfelelő használathoz regisztráljatok [ezen a linken](https://github.com/), és fork-oljátok a [kurzus repository-ját](https://github.com/kbenya/teach-rajk-prog1-2020a). 
 Ezt a jobb felső sarokban található gombra kattintva tudjátok megtenni:
 
 ![alt text](https://github.com/kbenya/teach-rajk-prog1-2020a/blob/master/materials/others/github_fork.png)

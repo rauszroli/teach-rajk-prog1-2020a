@@ -68,7 +68,7 @@ Ha készen vagytok a feladatokról készítsetek egy képet arról, hogy megoldo
 Ehhez most vasárnap még összerakom egy útmutatót.
 
 ## [Nyílthelyi](https://docs.google.com/forms/d/e/1FAIpQLSeOWTZbJUrvUzYnHqi4HJFhD3q0m8t3dblG9XgqT4Xbrkp6Aw/viewform?usp=sf_link)
-Ezzel a nyílthelyivel az elmélet átismétlésére szeretnénk ösztönözni titeket. Ennek a határideje 04.07. kedd éjfélig.
+Ezzel a nyílthelyivel az elmélet átismétlésére szeretnénk ösztönözni titeket. Kitöltési határideje 04.07. kedd éjfél.
 
 ## AoC promóció
 

@@ -1,4 +1,4 @@
-A következő kurzusra sok dolgotok van, ezért ezeket előbb összeszedem egy listába aztán részletesen is kifejtem őket.
+A következő kurzusra sok dolgotok van és nem is egyszerűek a házik, ezért ezeket előbb összeszedem egy listába aztán részletesen is kifejtem őket. 
 - 1 (új) csillag AoC-ban, amit nem a 2019-es feladatok közül választottatok.
 - Hackerrank python feladatok megoldása.
 - Saját github fiók létrehozása és az előző két pont megoldásait tartalmazó pull request indítása a következő kurzusig.

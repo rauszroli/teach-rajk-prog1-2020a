@@ -51,11 +51,11 @@ Illetve itt egy másik, hasonló,
 de nehézségében átláthatóbban differenciált gyakorlási lehetőség a Hackerrank.
 
 Itt van külön egy [python](https://www.hackerrank.com/domains/python) feladatokat tömörítő aloldal. 
-Illetve ezen belül is csoportokba vannak rendezve a feladatok. Nektek most az Introduction alá tartozó hét feladatot
-és a Basic Data Types Lists és Nested Lists feladatait kell megoldanotok. 
+Illetve ezen belül is csoportokba vannak rendezve a feladatok. Nektek most az Introduction alá tartozó hét feladatot, a String alá tartozó String Split and Join feladatot (ez hasznos lesz a Lists feladathoz) és a Basic Data Types Lists és Nested Lists feladatait kell megoldanotok. Ez összesen 10 feladat. 
 
-A hackerrankon a feladatok kódjait a saját beépített felületükön tudjátok megírni. 
-Illetve a nektek kijelölt feladatoknál egy tutorial fültet is találtok ami hasznos magyarázatokat tartalmaz.
+A hackerrankon a feladatok kódjait a saját beépített felületükön tudjátok megírni.
+A legtöbb esetben a kódotokat a "if __name__ == '__main__':" elágazáson belül kell megírnotok.
+Illetve a nektek kijelölt feladatoknál egy tutorial fület is találtok ami hasznos magyarázatokat tartalmaz.
 Ezek a tutorialok viszont python2-ben lettem megírva ez ha jól emlékszem annyi problémát okozhat, hogy a print után nektek zárójelet () kell raknotok pluszban.
 
 Ha készen vagytok készítsetek egy képet arról, hogy megoldottátok a feladatokat és ezt is küldjétek fel githubra a kurzusig.

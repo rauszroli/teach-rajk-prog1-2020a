@@ -66,7 +66,7 @@ Ha készen vagytok készítsetek egy képet arról, hogy megoldottátok a felada
 [Itt](https://github.com/kbenya/teach-rajk-prog1-2020a/blob/master/materials/tutorials/git_intro.md) találjátok Hanga összefoglalóját.
 
 
-## Python telepítés (https://github.com/kbenya/teach-rajk-prog1-2020a/blob/master/materials/tutorials/python_setup.md)
+## [Python telepítés](https://github.com/kbenya/teach-rajk-prog1-2020a/blob/master/materials/tutorials/python_setup.md)
 Szóljatok ha felmerül valami probléma ezzel kapcsolatban, még macre és linuxra személyesen nem telepítettem pythont.
 
 ## [Nyílthelyi](https://docs.google.com/forms/d/e/1FAIpQLSeOWTZbJUrvUzYnHqi4HJFhD3q0m8t3dblG9XgqT4Xbrkp6Aw/viewform?usp=sf_link)

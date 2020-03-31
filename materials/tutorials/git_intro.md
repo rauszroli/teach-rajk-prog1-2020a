@@ -18,7 +18,7 @@ Nyissátok meg a parancssort (Windows-on PowerShell, Mac-en és Ubuntu-n Termina
 
 Ezután írjátok be a következő parancsot: ```git clone >link<```, és a >link< helyére írjátok be, ami a saját fork-olt github repo-tokban megjelenik, ha a ```Clone or download``` gombra kattintotok:
 
-![alt text](https://github.com/kbenya/teach-rajk-prog1-2020a/blob/master/materials/others/github_clone.png)
+![alt text](https://github.com/dormanh/teach-rajk-prog1-2020a/blob/master/materials/others/github_clone.png)
 
 ### commit és pull request
 Miután klónoltátok a mappát a gépetekre, hozzatok létre a ```members``` mappán belül egy saját mappát (mondjuk a nevetekkel). Ide pakolhattok minden házihoz kapcsolódó fájlt (python scriptek, notebookok, screenshotok, txt, bármi). Miután kész vagytok az aktuális heti dolgokkal, megint nyissátok meg a paracssort, lépjetek be a kurzus mappájába, és a következő három paranccsal rögzítsétek a git rendszerében a módosításaitok, illetve töltsétek fel őket a GitHub-ra:
@@ -28,7 +28,7 @@ Miután klónoltátok a mappát a gépetekre, hozzatok létre a ```members``` ma
 
 Ha már minden fent van GitHub-on a saját repo-tokban, nyissatok egy pull request-et a Benya profiljához tartozó kurzus repo felé, a ```Pull requests``` tabon a ```New pull request``` gombra kattintva:
 
-![alt text](https://github.com/kbenya/teach-rajk-prog1-2020a/blob/master/materials/others/github_pull.png)
+![alt text](https://github.com/dormanh/teach-rajk-prog1-2020a/blob/master/materials/others/github_pull.png)
 
 #### További infó
 Azoknak, akiket részletesebben érdekel a téma, itt van egy félórás videósorozat a git és a GitHub használatáról: 

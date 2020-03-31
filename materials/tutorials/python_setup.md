@@ -10,6 +10,32 @@ A leggyakrabban alternatívaként az [Anaconda](https://www.anaconda.com/) szoko
 
 ![alt text](https://github.com/kbenya/teach-rajk-prog1-2020a/blob/master/materials/others/python_install_windows.png)
 
-**Mac OS X* esetében [innen](https://www.python.org/downloads/release/python-382/) tudjátok a Files -> macOS 64-bit installer-t letölteni.
+Ha a telepítő segítségével telepítitek a pythont windwosra vagy macre akkor fontos, hogy a telepítésnél kipipáljátok, hogy hozzáadja a python elérési útvonalát a környezeti változók közé (add to path).
+
+![alt text](https://github.com/kbenya/teach-rajk-prog1-2020a/blob/master/materials/others/python_install_add_to_path.png)
+
+**Mac OS** esetében [innen](https://www.python.org/downloads/release/python-382/) tudjátok a Files -> macOS 64-bit installer-t letölteni.
 
 ![alt text](https://github.com/kbenya/teach-rajk-prog1-2020a/blob/master/materials/others/python_install_mac.png)
+
+Vagy ha a terminálból szeretnétek megoldani akkor [itt](https://docs.python-guide.org/starting/install3/osx/) egy leírás, hogy ezt hogyan tudjátok megoldani.
+
+**Linux**-ot nem nagyon szoktatok haszálni, de [itt](https://docs.python-guide.org/starting/install3/linux/) egy leírás ehhez is.
+
+Miután telepítettétek a pythont a terminálban/parancssorban (akármi ami ennek megfelel) tudtok packageket telepíteni, mint pl a jupyter notebook.
+Ehhez általánosan annyit kell beírnotok, hogy **pip install packagename**. Pl. pip install jupyter.
+
+![alt text](https://github.com/kbenya/teach-rajk-prog1-2020a/blob/master/materials/others/python_pip.png)
+
+Ezt követően a saját gépeteken futó jupyter szervert a jupyter notebook parancs beírásával tudtok nyitni.
+
+![alt text](https://github.com/kbenya/teach-rajk-prog1-2020a/blob/master/materials/others/python_jupyter_launch.png)
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,18 @@
+
+### Sárkányos feladat
+
+Egy elszabadult sárkányt keresünk, aki mindig a legnagyobb tehenet eszi meg a királyságban, majd ledől a környéken aludni. Mivel van tehénverseny minden évben, van egy listánk a tehenekről, méret szerint. Hogy fogunk neki a sárkány megtalálásának, hogy minél kevesebb farmra kelljen menni?
+
+![log(n)](log(n).png)
+
+### Hány lépés után érünk el ide?
+
+$1 = \frac{n}{2^x}$
+
+$2^x = n$
+
+$log_2 2^x = log_2 n$
+
+$x = log_2 n$
+
+Ez azt jelenti, hogy a **legrosszabb esetben $log_2 n$ farmra kell elmennünk**!

@@ -12,4 +12,4 @@ Egy elszabadult sárkányt keresünk, aki mindig a legnagyobb tehenet eszi meg a
 <img src="https://render.githubusercontent.com/render/math?math=log_{2}2^{x}=log_{2}n">
 <img src="https://render.githubusercontent.com/render/math?math=x=log_{2}n">
 
-Ez azt jelenti, hogy a **legrosszabb esetben $log_2 n$ farmra kell elmennünk**!
+Ez azt jelenti, hogy a **legrosszabb esetben <img src="https://render.githubusercontent.com/render/math?math=log_{2}n">farmra kell elmennünk**!

@@ -3,7 +3,7 @@
 
 Egy elszabadult sárkányt keresünk, aki mindig a legnagyobb tehenet eszi meg a királyságban, majd ledől a környéken aludni. Mivel van tehénverseny minden évben, van egy listánk a tehenekről, méret szerint. Hogy fogunk neki a sárkány megtalálásának, hogy minél kevesebb farmra kelljen menni?
 
-<img src="https://github.com/dormanh/teach-rajk-prog1-2020a/tree/master/materials/others/log_n.png">
+![alt text](https://github.com/dormanh/teach-rajk-prog1-2020a/blob/master/materials/others/log_n.png)
 
 ### Hány lépés után érünk el ide?
 

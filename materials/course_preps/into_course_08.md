@@ -5,17 +5,19 @@
 ## A kurzusig:
 1. [Előző heti feladatok](./into_course_07.md) lezárása.
 
-2. Kijavítani a listából számoló sárkánymegtalálós függvényt, 
+2. Ez előző óra végén elkezdett [Time Conversion](https://www.hackerrank.com/challenges/time-conversion/problem) feladatot befejezni.
+
+3. Kijavítani a listából számoló sárkánymegtalálós függvényt, 
 itt találjátok a notebookját:
     - https://rajk.uni-corvinus.hu:8888/user/rajkjupyter/notebooks/notebooks/prog1-2020s/minta/dragon.ipynb
     - (mindenki másolja át saját mappájába vagy töltse le, ne írjátok felül egymást)
 
-3. Megoldani ugyanezt, a jkg_evaluators nevű pacakge tesztelésével:
+4. Megoldani ugyanezt, a jkg_evaluators nevű pacakge tesztelésével:
     - itt a package [dokumentációja](https://jkg-evaluators.readthedocs.io/en/latest/), 
 azon belül [itt](https://jkg-evaluators.readthedocs.io/en/latest/notebooks/001-dragonfind.html) 
 egy példa amiben ezt a sárkányos feladatot oldja meg
 
-4. Megoldani a tojásos példát ugyanebben, amire 
+5. Megoldani a tojásos példát ugyanebben, amire 
 [itt](https://jkg-evaluators.readthedocs.io/en/latest/notebooks/002-dropping-the-egg.html) 
 egy példa.
 
@@ -26,4 +28,4 @@ egy példa.
 [itt](https://github.com/endreMBorza/jkg_evaluators) találjátok, 
 majd következő órán megbeszéljük hogy ez pontosan hogy is működik.
 
-  Figyeljetek arra, hogy a fenti példákban milyen inputokat kapnak a függvények és ti is úgy írjátok meg a saját megoldásaitokat.
+  Figyeljetek arra, hogy a fenti példákban milyen inputokat kapnak a függvények és ti is úgy írjátok meg a saját megoldásaitokat. Illetve a megoldásaitokat ide a githubra töltsétek fel.

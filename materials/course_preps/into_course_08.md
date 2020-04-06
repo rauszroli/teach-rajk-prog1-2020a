@@ -19,7 +19,7 @@ egy példa amiben ezt a sárkányos feladatot oldja meg
 [itt](https://jkg-evaluators.readthedocs.io/en/latest/notebooks/002-dropping-the-egg.html) 
 egy példa.
 
-  Illetve itt + nehéz feladat olyan függvényt írni, ami tetszőleges tojással és emelettel is képes megoldani ezt a problémát.
+ Illetve itt + nehéz feladat olyan függvényt írni, ami tetszőleges tojással és emelettel is képes megoldani ezt a problémát.
 
   Ezen keresztül kicsit el kell kezdenetek barátkozni a package-ekkel, meg a pip-el 
 (amivel telepíteni lehet őket). ezt a konkrét package-et amúgy mindennel együtt 

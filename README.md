@@ -8,5 +8,6 @@ Rajkos prog1 kurzus 2020 tavasz
 - [for course 5](materials/course_preps/into_course_05.md)
 - [for course 6](materials/course_preps/into_course_06.md)
 - [for course 7](materials/course_preps/into_course_07.md)
+- [for course 7](materials/course_preps/into_course_08.md)
 
 ### [Course slides](https://django.rajk.uni-corvinus.hu/teach/course/prog1)

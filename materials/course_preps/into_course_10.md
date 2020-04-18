@@ -21,7 +21,7 @@ A "_rájöttem hogy mit akart de szarul írta le_"
 
 A keretet amiben kipróbálhatjátok a megoldásaitokat
 [itt](https://rajk.uni-corvinus.hu:8888/user/rajkjupyter/tree/notebooks/prog1-2020s/members)
-a saját mappátokban találjátok round_2 néven.
+a saját mappátokban találjátok round2 néven.
 
 ### II.
 

@@ -1,5 +1,3 @@
-Ennek a házinak három különböző és könnyű része van.
-
 ### I.
 Az előző házi második fele. Ez mindenkinek a sajátja + 8 új feladat.
 Azért csak 8 feladat mert Bori elfogalaltsága miatt nem tudja most a feladat első részét befejezni, ezért az ővét nem kell megoldanotok.

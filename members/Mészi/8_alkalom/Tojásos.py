@@ -49,6 +49,8 @@ def my_solution1(breaks):
 eggdrop_100floor_2egg.evaluate(my_solution1)
 
 
+## Egy jól működő viszonylag alap megoldás, az tök jó, hogy olyan változóneveket használsz amik leírják az adat tartalmát.
+
 # In[ ]:
 
 

@@ -6,7 +6,7 @@ hogyan lehetne javítani a megfogalmazáson az nagy segítség lenne.
 
 ## II.
 
-A kurzusig fejezzétek be az egymás leírása alapján készített kódokat. Ha kell kérhettek bővebb magyarázatot egyes részekre, jó lenne ha
+A kurzusig fejezzétek be az egymás leírása alapján készített kódokat. Ha kell kérhettek bővebb magyarázatot egyes részekre egymástól, jó lenne ha
 mindenkinek sikerülne mindenki más feladatát leprogramoznia. 
 
 ## III. 

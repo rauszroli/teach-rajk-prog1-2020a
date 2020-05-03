@@ -1,6 +1,6 @@
 ## I.
 
-[Ebben](https://rajk.uni-corvinus.hu:8888/user/rajkjupyter/notebooks/notebooks/prog1-2020s/minta/roman_function.ipynbb) a notebookban, a rom2ar
+[Ebben](https://rajk.uni-corvinus.hu:8888/user/rajkjupyter/notebooks/notebooks/prog1-2020s/minta/roman_function.ipynb) a notebookban, a rom2ar
 függvényt átírni úgy, hogy a rom2ar_test függvénynek paraméterként megadva
 a rom2ar_test függvény egy üres dataframe-et adjon vissza. 
 A dataframe a pandas csomag egyik objektumba, a következő órán részletesebben is beszélünk róla, most annyi a lényeg, hogy akkor

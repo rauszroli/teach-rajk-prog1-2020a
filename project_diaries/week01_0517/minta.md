@@ -10,6 +10,10 @@ Feltöltöttem az előző kurzuson készült naplókat, érdemes lehet belenézn
 
 ## Projekt állapot, tervek.
 
+#### Projektötlet leírása
+
+Az első hetekben még valószínüleg alakulni fog, hogy milyen ötletetek/öteleteitek vannak. Ezt/Ezeket írjátok le ide.
+
 #### Előző héten kitúzött célok közül:
 
 ##### Megvalósult

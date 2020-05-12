@@ -1,9 +1,11 @@
 Mindig a megfelelő mappába, adott hét vasárnapja 
 (a mappa nevében jelzett dátum)
 éjfélig kell pull requestet nyitni amiben benne van a következő struktúra.
-Ugyanilyen, mardown formátumban. A naplóval való késésért is jár a büntetés. 
-Nyilván nem minden héten tudtok feltétlenül ugyan annyit foglalkozni a beadandóval.
-Ha valamiért egy héten nagyon nincs időtök ezzel foglalkozni akkor azt is írjátok le.
+Ugyanilyen, mardown formátumban. 
+
+A naplóval való késésért is jár a büntetés. 
+Nyilván nem minden héten tudtok feltétlenül ugyan annyit foglalkozni a beadandóval,
+ha valamiért egy héten nagyon nincs időtök ezzel foglalkozni akkor azt is írjátok le.
 Feltöltöttem az előző kurzuson készült naplókat, érdemes lehet belenézni néhányba.
 
 ## Projekt állapot, tervek.

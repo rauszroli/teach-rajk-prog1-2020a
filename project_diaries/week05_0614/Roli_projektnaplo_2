@@ -1,0 +1,36 @@
+Ezen a héten olvasgatni kezdtem a jegy foglaló botom megvalósíthatóságáról. Voltak alapvető parák,
+sajnos ez most beigazolódott, egy ilyet nem olyan egyszerű megcsináni, mint gondoltam, és még jogi
+kérdéseket is felvet.
+
+Az első terv szerint a bot a facebook értesítéseimet scrapelte volna és ezt elemezte volna valamilyen
+text-mining eszközzel. A cél az értesítés alapján a post megnyitása, annak értelmezése, majd ha az a
+jegyárusítás kezdetéről szól, a link megnyitása és a jegy megvétele.
+
+Ezen elv mentén elkezdtem olvasgatni, hogy hogyan is működnek a jegyfoglaló botok. Elég izgi cikkek
+vannak, megismertem a faszi sztoriját, aki először csinált hasonló botot és milliárdos lett belőle,
+több nagyobb esemény jegyeinek 90%-át vette meg és passzolta tovább haszonnal, csakhogy pont ezért
+észre is vették. Sosem értettem, hogy ilyenkor miért nem figyelnek arra, hogy ez gyanús lehet, de
+a vevők károsítása miatt ezt jogellenesnek találták és börtönbe került (elmondása szerint így is
+megérte lol).
+
+Ami sajnálatos, hogy mindez tobárra is jogellenes, a tecnológia fejlődésével pedig több országban
+illegálissá is tették a használatukat. Ez ki lehet cselezni egy másik országban való működéssel
+(talán proxyval?), de mégis para. Amúgy neten már több féle botot lehet venni venni, vannak olyanok
+is, amik a capchat is megoldják (a kattingatós tesztelés). Ezek közül is a legviccesebb, aminél
+összekötik a géped egy indiai hálózattal, akik remote-ban megcsinálják neked a kattintást 
+(konkrétan van ilyen).
+
+Azért még mindig érdekelt a dolog, kevés jegy esetén valószínleg meg lehet csinálni nem feltűnőre,
+vagy éppen senkit sem zavar majd. Hamar be kellett látnom, hogy a capcha megoldása tényleg nagyon
+nehéz feladat, ezért áttértem egy értesítő és foglaló ötletre. A legtöbb jegy esetében 20 percig
+a kosárban lefoglalva marad a jegy, ez idő alatt lehet fizetni. A program még úgy is hasznos lenne,
+hogy csak a foglalást csinálja meg, majd küldd egy értesítőt, hogy x percem van fizetni.
+
+Ami azonban tényleg felborította a terveket és kb. ellehetetlenítette, az a Facebook jogvédelmi
+szabályzata. Majdnemm minden esemény itt van meghirdetve, ha kicsit rendszerezni szerettem volna azt,
+hogy milyen előadók vagy helyek eseményeit figyelje esetleg a foglalásun kívül a bot, muszáj lett volna
+ide tervezni, hogy lefedjem a dolgokat. Azonban a FB a GDPR és egyéb parák óta rengeteg szabályozást
+vezetett be, a saját értesítéseim scrapelése még nem is para, akár emailben is le lehet kérni, viszont
+az esemény postjainak scrapelése már eléggé, konkrétan ellenőrzik, hogy milyen szerverről jön a kattintás.
+
+Így ezt a tervet sajnos fel kellett adnom és új projektötletet kellett kitalálnom.

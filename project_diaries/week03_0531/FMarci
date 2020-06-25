@@ -1,0 +1,29 @@
+## Projekt állapot, tervek.
+
+#### Projektötlet leírása
+
+A koli pénzügyi nyilvántartását szeretném vizualizálni egy dashboardon. Alapvetően arra törekednék, hogy az adott időpontban realizált és a nagy valószinűséggel az adott év során bekövetkező kiadások, illetve a várt bevételek a megjelenjenek a dashboardon.
+
+#### Előző héten kitúzött célok közül:
+-olvasni a megvalósításról 
+- tanulmányozni a koli pénzügyeit
+
+##### Megvalósult
+-elkezdtem egy hosszabb tutorialt olvasni arról, hogy hogyan lehet egy ilyen dashboardot pythonban megcsinálni
+Link:
+
+-Az elmúlt hetekben a koli pénzügyi beszámolójával is foglalkoztam, áttekintettem az előző évi kiadásokat és bevételek számviteli és cf szemléletben is. 
+
+- a tavalyi évre készített likviditási tervet is átnéztem, ami hasonló céllal készült, mint a jelenlegi projekt, viszont statikus 
+
+
+#### Következő hétre kitűzött célok:
+
+- Ágotával beszélni arról, hogy mi volna az elnökség/ő számára hasznos feature/információ egy időszakosan frissülő likviditási tervben 
+- Db/szmt tagokkal beszélni róla h mi lenne nekik fontos egy ilyen felületen
+- potenciális felületet feltérképezni (heroku)
+- tutoriallal további haladás
+
+#### Heti források
+
+https://towardsdatascience.com/how-to-build-a-complex-reporting-dashboard-using-dash-and-plotl-4f4257c18a7f

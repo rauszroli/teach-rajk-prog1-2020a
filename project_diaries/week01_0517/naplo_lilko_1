@@ -1,0 +1,17 @@
+Projektötlet leírása
+
+Az utóbbi másfél hétben már azon gondolkodtam, hogy scrapelni szeretnék, és ehhez szerettem volna kitalálni hogy mit. Az eheti gondolkodásom és a “haladás” így ennek tekintetében volt. Eredetileg egy értékelő oldalt akartam lescrapelni, ahol orvosokat vagy kórházakat értékelnek emberek, viszont sok ilyen oldal átnézése után arra jutottam, hogy ezek nem megfelelő szerkezetűek/nincs rajtuk elég adat/nagyon kevesen értékelik a lista elemeinek 90%-át, így ez zsákutcának bizonyosult.
+A jelenlegi aktuális ötlet, hogy a profession.hu oldaláról szeretném leszedni az álláshirdetéseket és főbb motívumaikat, és azt megvizsgálni hogy milyen változás történt a koronavírus beütése óta az oldalon szereplő hirdetésekben (szerepel az időpont minden hirdetésnél, amikor közzé lett téve). Így elvileg meglesznek időrendben a hirdetések, és meg tudom vizsgálni hogy kevesebb hirdetést töltöttek-e fel azóta (mondjuk 2020 február óta) vagy más jellegűeket-e.
+Azt még nem tudom, hogy milyen hosszan maradnak fent az álláshirdetések. A múltbeli (korona előtti) idők vizsgálatához lehet, hogy egy régebbi időpillanatban is meg kellene nézni, hogy milyen/mennyi álláshirdetés volt fent, erre elegáns megoldás még nem jutott eszembe.
+
+Előző heti célok:
+- [ ] Véglegesíteni a projektötletet
+
+Jövő heti célok
+- [ ] munkatervet készíteni
+- [ ] Benya scrape kódját átnézni
+- [ ] kiválasztott oldalt megismerni (a scrapeléshez)
+-elkezdeni összeszedni pontosan, hogy miket szeretnék leszedni
+
+Források:
+Leginkább különböző potenciális oldakat gugliztam csak

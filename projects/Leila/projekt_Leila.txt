@@ -1,0 +1,6 @@
+A projektem egy torpedó játék, a klasszikus szabályok alapján írtam meg. Ennek elkészítéséhez a kurzuson tanultak közül főleg a 
+classokat és néhány pandas framet használtam. Külön classt írtam a hajókra és a játékosokra, melyeket a fő részében meghívtam.
+
+Parancssoros formában futtatható ,én jupyterben próbáltam ki.
+A játék egy gépről játszható. Egymás után következnek a játékosok, ezek közé beszúrtam átvezető részeket, hogy ne jelenhessen meg a 
+képernyőn egyszerre mindkét játékos felülete.
